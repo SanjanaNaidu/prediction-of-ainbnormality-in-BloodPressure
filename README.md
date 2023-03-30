@@ -1,4 +1,4 @@
-# prediction-of-ainbnormality-in-BloodPressure
+# prediction-of-abnormality-in-BloodPressure
 Overall, this project aims to build a machine learning model that can accurately predict abnormal blood pressure levels based on demographic and health-related features. The notebook contains detailed explanations, code, and visualizations for each step in the project.
 Data Collection: The dataset used in this project is collected from the National Health and Nutrition Examination Survey (NHANES), which is a program of studies designed to assess the health and nutritional status of adults and children in the United States.
 
